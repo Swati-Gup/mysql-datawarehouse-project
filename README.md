@@ -1,4 +1,4 @@
-#  Data Warehouse and Analytics Project
+#  SQL Data Warehouse and Analytics Project
 
 This project repository 'mysql-datawarehouse-project' demonstrates building a comprehensive modern data warehouse with MySQL, based on the Medallion architecture. It includes ETL processes, data modeling and analytics.
 
