@@ -24,7 +24,7 @@ This project involves:
 
 ## License
 
-This is a private repository and this project is not licensed. 
+This is a public repository. 
 
 
 ## About Me
